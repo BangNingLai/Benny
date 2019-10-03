@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+*{
+    boarder-size : border-box;
+    padding :0;
+    margin : 0;
+    color:#d1fad1;
+}
+
+h1 {
+    font-size:60px;
+    font-family: 'Noto Sans TC', sans-serif;
+    color:#d1fad1;
+    
+}
+
+.BigTitle {
+    color: lightblue;
+}
+
+.homework {
+    width : 1280px;
+    height : 1000px;
+    border : 1px solid white
+    
+}
+
+.topitem {
+    display: flex 
+    justfy-content = end ;
+}
+
+.home {
+    width: 100%;
+    height: 100vh;
+    color : #000000;
+    background-color: cornsilk;
+    background-image: url('69629287_2502256596500136_5559402923458297856_o.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.aboutme{
+width: 100%;
+height: 255px;
+display: flex;
+}
+
+.left{
+width: 50%;
+}
+
+.right{
+width: 50%;
+background-image: url('download.jpg');
+background-repeat: no-repeat;
+
+}
