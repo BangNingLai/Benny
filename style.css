@@ -63,6 +63,19 @@ align-items: end;
 
 }
 
+.rightword{
+    width: 50%;
+    background-color: blue;
+    
+    background-size: cover;
+    display: flex;
+    /* justify-content: flex-end;*/
+    flex-direction: column;
+    align-items: end;
+    
+    }
+
+
 .left{
 width: 50%;
 background-color: deepskyblue;
