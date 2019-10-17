@@ -9,7 +9,8 @@
 h1 {
     font-size:60px;
     font-family: 'Noto Sans TC', sans-serif;
-    color:#d1fad1;
+    color: lightblue;
+    
     
 }
 
@@ -73,7 +74,7 @@ align-items: end;
 
 .left{
 width: 50%;
-background-color: deepskyblue;
+background-color: #d1fad1;
 /* background-image: url('download.jpg');*/
 /* background-repeat: no-repeat; */
 display: flex;
